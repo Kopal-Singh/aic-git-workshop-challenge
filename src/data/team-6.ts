@@ -9,5 +9,6 @@ export const team6: Team = {
     { name: "Brendy", funFact: "I like the color blue" },
     { name: "Harjot", funFact: "I box at UC Davis" },
     { name: "Arun", funFact: "I like chess" },
+    { name: "Kopa", funFact: "I play drums" }
   ]
 };
