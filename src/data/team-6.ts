@@ -8,6 +8,6 @@ export const team6: Team = {
     { name: "Mahi", funFact: "I like Baking" },
     { name: "Brendy", funFact: "I like the color blue" },
     { name: "Harjot", funFact: "I box at UC Davis" },
-    { name: "Arun", funFact: "I box at UC Davis" },
+    { name: "Arun", funFact: "I like chess" },
   ]
 };
